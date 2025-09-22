@@ -1,4 +1,4 @@
-# Autel Multi-Platform VLA: Vision-Language-Action Model
+# Multi-Platform VLA: Vision-Language-Action Model
 
 [![Multi-Platform](https://img.shields.io/badge/Multi--Platform-Aerial%20%7C%20Ground%20%7C%20Humanoid-blue)](./models/unified_vla_model.py)
 [![Production Alpha](https://img.shields.io/badge/Production-Alpha%20v1.0-orange)](./docs/SYSTEM_STATUS.md)
@@ -18,7 +18,7 @@
 ```
 
 ![Comprehensive Interface](images/comprehensive_interface.png)
-*Complete Autel VLA multi-platform training interface showing platform selection, training configuration, real-time monitoring, and performance analytics*
+*Complete VLA multi-platform training interface showing platform selection, training configuration, real-time monitoring, and performance analytics*
 
 ### Multi-Platform Training
 ```bash
@@ -280,7 +280,7 @@ Unified Inference Latency:  9.26ms average across all platforms
 ## 🤖 NVIDIA Isaac GR00T N1.5 Compatibility
 
 ### ✅ **Full Compatibility Confirmed**
-Our Autel VLA multi-platform system is **highly compatible** with NVIDIA Isaac GR00T N1.5:
+Our VLA multi-platform system is **highly compatible** with NVIDIA Isaac GR00T N1.5:
 
 #### 🎯 **Core Compatibility Metrics**
 - **✅ Humanoid Robot Support**: 24-DOF full-body control (meets GR00T standards)
@@ -306,7 +306,7 @@ status = integrator.get_integration_status()
 4. **Physical Constraint Validation**: Enhanced safety and stability
 
 #### 📊 **Performance Comparison**
-| Metric | Autel VLA | GR00T Requirement | Compatibility |
+| Metric | VLA | GR00T Requirement | Compatibility |
 |--------|-----------|-------------------|---------------|
 | **DOF Support** | 24-DOF | 24-DOF | ✅ Perfect Match |
 | **Inference Latency** | 9.26ms | <10ms | ✅ Exceeds Standard |
@@ -327,7 +327,7 @@ status = integrator.get_integration_status()
 ```
 
 ### 🎉 **Conclusion**
-The Autel VLA system can **seamlessly integrate** with NVIDIA Isaac GR00T N1.5, providing enterprise-grade multi-platform VLA capabilities for humanoid robots.
+The VLA system can **seamlessly integrate** with NVIDIA Isaac GR00T N1.5, providing enterprise-grade multi-platform VLA capabilities for humanoid robots.
 
 ## 🔧 Development & Customization
 
@@ -488,7 +488,7 @@ This system is **operationally ready** for:
 - **Integration**: Complete multi-modal support
 - **Deployment**: Production-ready for humanoid applications
 
-**🚁 Autel Multi-Platform VLA - Production-Ready Multi-Platform Vision-Language-Action System**
+**🚁 Multi-Platform VLA - Production-Ready Multi-Platform Vision-Language-Action System**
 
 *Professional Multi-Platform VLA Implementation for Industrial Applications - Continuous Development*
 
