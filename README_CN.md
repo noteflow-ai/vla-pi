@@ -1,4 +1,4 @@
-# Autel 空地一体具身智能 VLA: 多平台视觉-语言-动作模型
+# Autel空地一体具身智能 VLA: 多平台视觉-语言-动作模型
 
 [![多平台支持](https://img.shields.io/badge/多平台-空中%20%7C%20地面%20%7C%20人型-blue)](./models/unified_vla_model.py)
 [![生产Alpha](https://img.shields.io/badge/生产-Alpha%20v1.0-orange)](./docs/SYSTEM_STATUS.md)
@@ -18,7 +18,7 @@
 ```
 
 ![综合界面](images/comprehensive_interface.png)
-*完整的Autel VLA多平台训练界面，展示平台选择、训练配置、实时监控和性能分析*
+*完整的VLA多平台训练界面，展示平台选择、训练配置、实时监控和性能分析*
 
 ### 多平台训练
 ```bash
@@ -280,7 +280,7 @@ R_total^p = R_task^p + β₁^p R_safety^p + β₂^p R_efficiency^p
 ## 🤖 NVIDIA Isaac GR00T N1.5 兼容性
 
 ### ✅ **完全兼容确认**
-我们的Autel VLA多平台系统与NVIDIA Isaac GR00T N1.5**高度兼容**：
+我们的VLA多平台系统与NVIDIA Isaac GR00T N1.5**高度兼容**：
 
 #### 🎯 **核心兼容性指标**
 - **✅ 人型机器人支持**: 24-DOF全身控制 (符合GR00T标准)
@@ -306,7 +306,7 @@ status = integrator.get_integration_status()
 4. **物理约束验证**: 增强安全性和稳定性
 
 #### 📊 **性能对比**
-| 指标 | Autel VLA | GR00T要求 | 兼容性 |
+| 指标 | VLA | GR00T要求 | 兼容性 |
 |------|-----------|-----------|--------|
 | **DOF支持** | 24-DOF | 24-DOF | ✅ 完全匹配 |
 | **推理延迟** | 9.26ms | <10ms | ✅ 超越标准 |
@@ -327,7 +327,7 @@ status = integrator.get_integration_status()
 ```
 
 ### 🎉 **结论**
-Autel VLA系统可以**无缝集成**NVIDIA Isaac GR00T N1.5，为人形机器人提供企业级的多平台VLA能力。
+VLA系统可以**无缝集成**NVIDIA Isaac GR00T N1.5，为人形机器人提供企业级的多平台VLA能力。
 
 ## 🔧 开发与定制
 
@@ -458,7 +458,7 @@ vla-llm/
 - **集成**: 完整多模态支持
 - **部署**: 人型应用生产就绪
 
-**🚁 Autel 空地一体具身智能 VLA - 生产就绪多平台视觉-语言-动作系统**
+**🚁 空地一体具身智能 VLA - 生产就绪多平台视觉-语言-动作系统**
 
 *工业应用的专业多平台VLA实现 - 持续开发*
 
