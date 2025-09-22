@@ -1,4 +1,4 @@
-# Autel空地一体具身智能 VLA: 多平台视觉-语言-动作模型
+# 空地一体具身智能 VLA: 多平台视觉-语言-动作模型
 
 [![多平台支持](https://img.shields.io/badge/多平台-空中%20%7C%20地面%20%7C%20人型-blue)](./models/unified_vla_model.py)
 [![生产Alpha](https://img.shields.io/badge/生产-Alpha%20v1.0-orange)](./docs/SYSTEM_STATUS.md)
